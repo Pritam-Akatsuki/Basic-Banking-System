@@ -2,6 +2,10 @@
 
 Title: Basic Banking System Project with PHP and SQL
 ---
+
+![Screenshot_20230903-123809_Video Player](https://github.com/Pritam-Akatsuki/Basic-Banking-System/assets/136802288/3b5030bb-3dd8-47bc-9fce-133b95d8e608)
+
+https://drive.google.com/file/d/1S_QDn9xhCktcWiyK_qEKxymji1DvkFgz/view?usp=sharing
 ---
 Description:
 The Basic Banking System Project is a simple yet effective web-based application that demonstrates the fundamental functionalities of a banking system using PHP and SQL. This project serves as an educational tool and provides a foundation for understanding the essential components of a banking system.
